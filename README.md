@@ -1,6 +1,6 @@
 # MERN Stack Chatting Web App
 
-![Demo Screenshot](C:\Users\Yashwanth V\Desktop\Screenshot 2024-08-02 093929.png)
+![Demo Screenshot](Screenshot 2024-08-02 093929.png)
 
 This is a real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to engage in seamless conversations with features such as user authentication, instant messaging, and real-time updates.
 
